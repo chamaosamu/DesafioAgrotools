@@ -1,0 +1,9 @@
+{
+  "name": "DesafioAgrotools",
+  "displayName": "DesafioAgrotools",
+  "expo": {
+    "name": "DesafioAgrotools",
+    "slug": "DesafioAgrotools",
+    "sdkVersion": "38.0.0"
+  }
+}
